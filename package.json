@@ -2,7 +2,7 @@
   "name": "react-motion-ts",
   "type": "module",
   "version": "1.0.0",
-  "packageManager": "pnpm@8.8.0",
+  "packageManager": "pnpm@6.1.0",
   "description": "A spring that solves your animation problems.",
   "author": "Blithe07 <Blithe0712@gmail.com>",
   "license": "MIT",
